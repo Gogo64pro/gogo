@@ -1,0 +1,104 @@
+[2/22/2025 -- 16:39:40][INFO]Downloading: fabric-api
+[2/22/2025 -- 16:39:40][INFO]Downloading: sodium
+[2/22/2025 -- 16:39:40][INFO]Downloading: yacl
+[2/22/2025 -- 16:39:40][INFO]Downloading: architectury-api
+[2/22/2025 -- 16:39:40][INFO]Downloading: sodium-extra
+[2/22/2025 -- 16:39:40][INFO]Downloading: modernfix
+[2/22/2025 -- 16:39:40][INFO]Downloading: not-enough-animations
+[2/22/2025 -- 16:39:40][INFO]Downloading: create
+[2/22/2025 -- 16:39:41][INFO]Finished: create
+[2/22/2025 -- 16:39:41][INFO]Finished: architectury-api
+[2/22/2025 -- 16:39:41][INFO]Finished: not-enough-animations
+[2/22/2025 -- 16:39:41][INFO]Finished: sodium-extra
+[2/22/2025 -- 16:39:41][INFO]Finished: modernfix
+[2/22/2025 -- 16:39:41][INFO]Finished: yacl
+[2/22/2025 -- 16:39:41][INFO]Finished: sodium
+[2/22/2025 -- 16:39:41][INFO]Finished: fabric-api
+[2/22/2025 -- 16:41:22][INFO]Starting...
+[2/22/2025 -- 16:41:22][INFO]Initialized POST  /custom
+[2/22/2025 -- 16:41:22][INFO]Initialized POST  /download
+[2/22/2025 -- 16:41:22][INFO]Initialized POST  /modpack
+[2/22/2025 -- 16:41:22][INFO]Initialized GET  /modpacks
+[2/22/2025 -- 16:41:22][INFO]Initialized GET  /
+[2/22/2025 -- 16:41:22][INFO]Initialized POST  /
+[2/22/2025 -- 16:41:22][INFO]Initialized POST  /statechange
+[2/22/2025 -- 16:41:22][INFO]API listening on http://0.0.0.0:3000
+[2/22/2025 -- 16:41:33][INFO]Downloading: fabric-api
+[2/22/2025 -- 16:41:33][INFO]Downloading: sodium
+[2/22/2025 -- 16:41:33][INFO]Downloading: yacl
+[2/22/2025 -- 16:41:33][INFO]Downloading: architectury-api
+[2/22/2025 -- 16:41:33][INFO]Downloading: sodium-extra
+[2/22/2025 -- 16:41:33][INFO]Downloading: modernfix
+[2/22/2025 -- 16:41:33][INFO]Downloading: not-enough-animations
+[2/22/2025 -- 16:41:33][INFO]Downloading: create
+[2/22/2025 -- 16:41:33][INFO]Finished: create
+[2/22/2025 -- 16:41:33][INFO]Finished: sodium
+[2/22/2025 -- 16:41:34][INFO]Finished: yacl
+[2/22/2025 -- 16:41:34][INFO]Finished: modernfix
+[2/22/2025 -- 16:41:34][INFO]Finished: not-enough-animations
+[2/22/2025 -- 16:41:34][INFO]Finished: sodium-extra
+[2/22/2025 -- 16:41:34][INFO]Finished: architectury-api
+[2/22/2025 -- 16:41:34][INFO]Finished: fabric-api
+[2/22/2025 -- 16:41:47][INFO]Starting...
+[2/22/2025 -- 16:41:47][INFO]Initialized POST  /custom
+[2/22/2025 -- 16:41:47][INFO]Initialized POST  /download
+[2/22/2025 -- 16:41:47][INFO]Initialized POST  /modpack
+[2/22/2025 -- 16:41:47][INFO]Initialized GET  /modpacks
+[2/22/2025 -- 16:41:47][INFO]Initialized GET  /
+[2/22/2025 -- 16:41:47][INFO]Initialized POST  /
+[2/22/2025 -- 16:41:47][INFO]Initialized POST  /statechange
+[2/22/2025 -- 16:41:47][INFO]API listening on http://0.0.0.0:3000
+[2/22/2025 -- 16:41:55][INFO]Downloading: fabric-api
+[2/22/2025 -- 16:41:55][INFO]Downloading: sodium
+[2/22/2025 -- 16:41:55][INFO]Downloading: yacl
+[2/22/2025 -- 16:41:55][INFO]Downloading: architectury-api
+[2/22/2025 -- 16:41:55][INFO]Downloading: sodium-extra
+[2/22/2025 -- 16:41:55][INFO]Downloading: modernfix
+[2/22/2025 -- 16:41:55][INFO]Downloading: not-enough-animations
+[2/22/2025 -- 16:41:55][INFO]Downloading: create
+[2/22/2025 -- 16:41:56][INFO]Finished: sodium
+[2/22/2025 -- 16:42:31][INFO]Starting...
+[2/22/2025 -- 16:42:31][INFO]Initialized POST  /custom
+[2/22/2025 -- 16:42:31][INFO]Initialized POST  /download
+[2/22/2025 -- 16:42:31][INFO]Initialized POST  /modpack
+[2/22/2025 -- 16:42:31][INFO]Initialized GET  /modpacks
+[2/22/2025 -- 16:42:31][INFO]Initialized GET  /
+[2/22/2025 -- 16:42:31][INFO]Initialized POST  /
+[2/22/2025 -- 16:42:31][INFO]Initialized POST  /statechange
+[2/22/2025 -- 16:42:31][INFO]API listening on http://0.0.0.0:3000
+[2/22/2025 -- 16:43:1][INFO]Downloading: fabric-api
+[2/22/2025 -- 16:43:1][INFO]Downloading: sodium
+[2/22/2025 -- 16:43:1][INFO]Downloading: yacl
+[2/22/2025 -- 16:43:1][INFO]Downloading: architectury-api
+[2/22/2025 -- 16:43:1][INFO]Downloading: sodium-extra
+[2/22/2025 -- 16:43:1][INFO]Downloading: modernfix
+[2/22/2025 -- 16:43:1][INFO]Downloading: not-enough-animations
+[2/22/2025 -- 16:43:1][INFO]Downloading: create
+[2/22/2025 -- 16:43:2][INFO]Finished: sodium-extra
+[2/22/2025 -- 16:43:2][INFO]Finished: yacl
+[2/22/2025 -- 16:43:2][INFO]Finished: create
+[2/22/2025 -- 16:43:26][INFO]Starting...
+[2/22/2025 -- 16:43:26][INFO]Initialized POST  /custom
+[2/22/2025 -- 16:43:26][INFO]Initialized POST  /download
+[2/22/2025 -- 16:43:26][INFO]Initialized POST  /modpack
+[2/22/2025 -- 16:43:26][INFO]Initialized GET  /modpacks
+[2/22/2025 -- 16:43:26][INFO]Initialized GET  /
+[2/22/2025 -- 16:43:26][INFO]Initialized POST  /
+[2/22/2025 -- 16:43:26][INFO]Initialized POST  /statechange
+[2/22/2025 -- 16:43:26][INFO]API listening on http://0.0.0.0:3000
+[2/22/2025 -- 16:43:31][INFO]Downloading: fabric-api
+[2/22/2025 -- 16:43:31][INFO]Downloading: sodium
+[2/22/2025 -- 16:43:31][INFO]Downloading: yacl
+[2/22/2025 -- 16:43:31][INFO]Downloading: architectury-api
+[2/22/2025 -- 16:43:31][INFO]Downloading: sodium-extra
+[2/22/2025 -- 16:43:31][INFO]Downloading: modernfix
+[2/22/2025 -- 16:43:31][INFO]Downloading: not-enough-animations
+[2/22/2025 -- 16:43:31][INFO]Downloading: create
+[2/22/2025 -- 16:43:36][INFO]Finished: create
+[2/22/2025 -- 16:43:36][INFO]Finished: architectury-api
+[2/22/2025 -- 16:43:36][INFO]Finished: sodium-extra
+[2/22/2025 -- 16:43:36][INFO]Finished: fabric-api
+[2/22/2025 -- 16:43:36][INFO]Finished: sodium
+[2/22/2025 -- 16:43:36][INFO]Finished: not-enough-animations
+[2/22/2025 -- 16:43:36][INFO]Finished: yacl
+[2/22/2025 -- 16:43:36][INFO]Finished: modernfix
